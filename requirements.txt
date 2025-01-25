@@ -29,3 +29,4 @@ beautifulsoup4>=4.12.2
 langchain_huggingface
 langgraph
 python-docx
+pypdf
