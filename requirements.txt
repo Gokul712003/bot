@@ -1,0 +1,31 @@
+# Core dependencies
+streamlit>=1.31.0
+python-dotenv>=1.0.0
+langchain>=0.1.0
+langchain-openai>=0.0.2
+langchain-community>=0.0.12
+openai>=1.8.0
+
+# Document handling
+python-docx>=0.8.11
+PyPDF2>=3.0.0
+faiss-cpu>=1.7.4
+tiktoken>=0.5.1
+
+# Email handling
+secure-smtplib>=0.1.1
+
+# Search tools
+duckduckgo-search>=4.1.1
+tavily-python>=0.3.0
+youtube-search-python>=1.6.6
+arxiv>=2.0.0
+
+# Utilities
+python-magic>=0.4.27
+requests>=2.31.0
+beautifulsoup4>=4.12.2
+
+langchain_huggingface
+langgraph
+python-docx
